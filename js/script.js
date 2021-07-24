@@ -1,5 +1,5 @@
 $(document).ready(function () {
-//    alert("Good to go") 
+    alert("Good to go") 
 });
 
 $('#toggler').on('click', function () {
